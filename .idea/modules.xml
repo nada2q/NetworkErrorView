@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.NetworkErrorView.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.NetworkErrorView.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkErrorView.iml" filepath="$PROJECT_DIR$/NetworkErrorView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/NetworkErrorView-app.iml" filepath="$PROJECT_DIR$/app/NetworkErrorView-app.iml" group="NetworkErrorView/app" />
-      <module fileurl="file://$PROJECT_DIR$/library/NetworkErrorView-library.iml" filepath="$PROJECT_DIR$/library/NetworkErrorView-library.iml" group="NetworkErrorView/library" />
-      <module fileurl="file://$PROJECT_DIR$/OpenSource-NetworkErrorView.iml" filepath="$PROJECT_DIR$/OpenSource-NetworkErrorView.iml" group="NetworkErrorView" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetworkErrorView.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/NetworkErrorView.library.unitTest.iml" />
     </modules>
   </component>
 </project>
